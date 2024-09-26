@@ -20,3 +20,22 @@ memenuhi 3 prinsip lainnya. Sehingga menyulitkan pembaca untuk memahami maksud d
 visualisasi tersebut.
 
 ![Screenshot_1](https://github.com/asrnd12/Visualisasi_Data_Informasi/blob/main/Tugas%203/WhatsApp%20Image%202024-09-24%20at%2021.29.05%20(1).jpeg)
+
+Prinsip-prinsip utama desain visual:
+1. Strive for Forms and Functions = Baik</li>
+Bentuk diagram batang dan garis tren ini adalah bentuk visualisasi yang umum dan jelas dimana 
+memudahkan pembaca untuk memahami pertumbuhan laba dan margin laba dari tahun ke 
+tahun.
+2. Justifying the Selection of Everything We Do = Baik</li>
+Penggunaan warna yang berbeda dimana hijau untuk laba bersih dan orange untuk margin laba 
+membantu pembaca membedakan antara 2 indikator. Skala pada grafik ini juga relevan dan 
+menunjukan perubahan nilai yang jelas.
+3. Creating Accessibility Through Intuitive Design = Baik</li>
+Grafik ini menggunakan ukuran teks pas untuk label serta pemilihan warna juga tepat. sehingga grafik ini memiliki desain yang bagus dan mudah dimengerti informasinya.
+4. Never Deceive the Receiver = Baik</li>
+Data disajikan dengan transparan tanpa manipulasi. Skala dimulai dari nol, dan tidak ada 
+perubahan signifikan yang membuat data terlihat berlebihan. Tidak ada indikasi bahwa 
+visualisasi ini menyesatkan penerima informasi.</li>
+
+Kesimpulan: visualisasi ini secara umum baik. Grafiknya jelas, informatif dan memenuhi prinsip-prinsip 
+visualisasi
